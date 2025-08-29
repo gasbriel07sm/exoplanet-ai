@@ -1,1 +1,5 @@
 # exoplanet-ai
+
+Practice run before the hackathon starts
+
+USING ANY MATERIAL FROM THIS REPO IN THE OFFICIAL RUN MAY RESUT IN DECLASSIFICATION, BEWARE!
